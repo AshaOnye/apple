@@ -1,0 +1,146 @@
+.Topselling{
+    margin-top: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 24rem;
+    margin-left: 10rem;
+    border-radius: 8px;
+
+}
+
+.Topselling1{
+    margin-top: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 26rem;
+    margin-left: 10rem;
+    border-radius: 8px;
+
+}
+
+.itemstext {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.topimages {
+    display: flex;
+}
+
+.toptext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 14px;
+    margin-top: 12px;
+}
+
+.lenovo {
+    width: 16%;
+    height: 15rem;
+    margin: auto;
+
+}
+
+.lenovo img{
+    height: 100%;
+    width: 100%;
+}
+
+.lenovo p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.lenovo img:hover {
+    transform: scale(1.1);
+}
+
+del {
+    font-size: 12px;
+}
+
+.flashdiv {
+    width: 80%;
+    height: 3rem;
+    margin-left: 10rem;
+    margin-top: 10px;
+    background-color: red;
+    display: flex;
+}
+
+.flashtext {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-bottom: 8px;
+}
+
+.timetext {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 330px;
+    font-weight: bold;
+}
+
+.seetext {
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 390px;
+    text-decoration: none;
+    
+}
+
+.stockdiv {
+    width: 80%;
+    height: 3rem;
+    margin-left: 10rem;
+    margin-top: 10px;
+    background-color: powderblue;
+    display: flex;
+}
+
+.stocktext {
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-bottom: 8px;
+}
+
+.freediv {
+    margin-top: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 16rem;
+    margin-left: 10rem;
+    border-radius: 8px;
+}
+
+.freeimages {
+    display: flex;
+}
+
+.free {
+    width: 33%;
+    height: 15rem;
+    margin: auto;
+    padding: 10px;
+}
+
+.free img {
+    width: 100%;
+    height: 100%;
+}
+
+.free img:hover {
+    transform: scale(1.1);
+}
+
