@@ -1,16 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    background-color: whitesmoke;
-}
-
-
 .Topselling{
     margin-top: 10px;
-    background-color: white;
+    background-color: whitesmoke;
     width: 80%;
     height: 24rem;
     margin-left: 10rem;
@@ -20,7 +10,7 @@ body {
 
 .Topselling1{
     margin-top: 10px;
-    background-color: white;
+    background-color: whitesmoke;
     width: 80%;
     height: 26rem;
     margin-left: 10rem;
@@ -32,6 +22,7 @@ body {
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 
 
 .topimages {
@@ -126,7 +117,7 @@ del {
 
 .freediv {
     margin-top: 10px;
-    background-color: white;
+    background-color: whitesmoke;
     width: 80%;
     height: 16rem;
     margin-left: 10rem;
@@ -153,21 +144,364 @@ del {
     transform: scale(1.1);
 }
 
-.topdealsdiv{
+
+.header{
+    background-color: #f7971c;
+    height: 60px;
+}
+.head1{
     width: 80%;
-    height: 3rem;
-    margin-left: 10rem;
-    margin-top: 10px;
-    background-color: #fee2cc;
+    margin: auto; 
     display: flex;
+    justify-content: space-between;
+    padding: 0px;
+}
+.free_delivery{
+    width: 60%;
+}
+.free_delivery{
+    color: white;
+    font-size: 55px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 40px;
+    }
+.call_to_Order{
+    background-color: #abdef1;
+    width: 20%;
+    height: 59px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.call_to_Order{
+    font-size: 25px;
+    padding-top: 2px;
+}
+.call_to_Order p{
+    padding-top: 4px;
+}
+.call{
+    font-size: 16px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+}
+.section{
+    height: 40px;
+    width: 100%;
+}
+.head2{
+    display: flex;
+    width: 80%;
+    margin:auto;
+    padding: 10px;
+}
+.sell_on_jumia{
+    width: 30%;
+    align-items: center;
+}
+.sell_on_jumia img{
+    width: 20px;
+    height: 20px;
+    padding-top: 0%;
+}
+.sell_on_jumia a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #f7971c;
+    font-size: 20px;
+}
+.jumi{
+    width: 60%;    
+}
+.jumi img{
+    width: 65px;
+    height: 12px;
+}
+.jumi a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: gray;
+    padding: 3%;
+    font-size: 12px
+}
+.section2{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+.head3{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding: 0px 0px;
+    background-position: fixed;
+}
+.jumia_logo{
+    width: 15%;
+}
+.jumia_logo img{
+    width: 150px;
+    height: 25px;
+    padding-top: 10px;
+}
+.jumia_logo img:hover{
+    color: gray;
+}
+.button_2{
+    padding: 0px 40px;
+}
+.search{
+    width: 600px;
+    height: 40px;
+    border: gray 1px solid;
+    border-radius: 2px;
+}
+.btn_seacrch{
+    background-color: #f7971c;
+    border: solid 1px  #f7971c;
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;;
+  font-weight: 500px;
+  border-radius: 1px; 
+  height: 40px;
+  width: 100px;
+}
+.btn_seacrch:hover{ 
+    border: gray;
+}
+.aatag a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 500px;
+    padding: 5px 15px;
+    justify-content: center;
+    color: black;
+}
+.aatag a:hover{
+    color: #f7971c;
+}
+.jumia_products{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+.jumia_products{
+    width:80%;
+    height: 380px;
+    margin: auto;
+    margin-top: 20px;
+}
+.ban1{background-color: white;
+    width: 20%;
+    height: 380px;
+}
+.ban1:hover{
+    box-shadow: 2px 2px 10px;
+    color: #7f8e8c;
+    border-radius: 8px;
 }
 
-.topdealsdiv p {
+.ban1 a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 13px;
     color: black;
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 30px;
-    margin-bottom: 8px;
+    margin: auto;
+    line-height: 30px;
+}
+.ban2{
+    background-color: white;
+    width: 57%;
+    height: 380px;
+    border-radius: 8px;
+}
+.ban2 img{
+    width: 100%;
+    height: 380px;
+}
+.ban2:hover{
+    box-shadow: 2px 2px 10px;
+    color: #7f8e8c;
+}
+
+.ban3{
+    background-color: #f7971c;
+    width: 20%;
+    height: 380px;
+}
+.sban1{
+    background-color: white;
+    width: 100%;
+    height: 185px;
+}
+.sban1 img{
+    width: 100%;
+    height: 185px;
+}
+.sban2{
+    background-color: white;
+    width: 100%;
+    height: 185px;
     margin-top: 10px;
 }
+.sban2 img{
+    width: 100%;
+    height: 185px;
+    
+}
+.holder{
+    background-color: white;
+    justify-content: space-between;
+    width: 80%;
+    height: 170px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.jumia_brands{
+    width:100%;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.jumia_brands{
+    width: 90%;
+}
+
+.jumia_brands a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.jumia_brand1{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+.jumia_brand1:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand1 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand2{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand2:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+
+.jumia_brand2 img {
+    width: 100%;
+    height: 120px;
+}
+.jumia_brand3{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand3:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand3 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand4{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+.jumia_brand4:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand4 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand5{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand5:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand5 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand6{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand6:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand6 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand7{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand7:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand7 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand8{
+    background-color: white;
+    width: 11.5%;
+    height: 160px;
+}
+.jumia_brand8:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand8 img {
+    width: 100%;
+    height: 120px;
+}
+
 
