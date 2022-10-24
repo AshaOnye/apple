@@ -126,6 +126,7 @@ del {
     border-radius: 8px;
 }
 
+
 .freeimages {
     display: flex;
 }
@@ -885,3 +886,141 @@ del {
 }
 
 
+.section_1 {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+.offical {
+    background-color: #e2f5ff;
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     font-weight: bold;
+     padding: 15px 0px;
+     color: #28313b;
+}
+.one {
+    width: 100%;
+    display: flex;
+    padding-top: 10px;
+}
+.one div {
+    width: 17%;
+}
+.one img{
+    width: 100%;
+}
+.two {
+    width: 100%;
+    display: flex;
+}
+.two div {
+    width: 17%;
+}
+.two img{
+    width: 100%;
+}
+.three {
+    width: 100%;
+    display: flex;
+}
+.three div {
+    width: 17%;
+}
+.three img{
+    width: 100%;
+}
+.one div:hover{
+    transform: scale(1.1);}
+.two div:hover{
+    transform: scale(1.1);}
+.three div:hover{
+    transform: scale(1.1);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Grocery{
+     background-color: #c3def0;
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     font-weight: bold;
+     padding: 15px 0px;
+     margin-top: 10px;
+     color: #28313b;
+     margin-bottom: 10px;
+}
+.mini_sec{
+    display: flex;
+    justify-content: space-between;
+}
+.mini_sec div {
+    width: 33%;
+}
+.mini_sec img:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.mini_sec img{
+    width: 100%;
+    height: 100%;
+}
+.top_deals{
+    display: flex;
+    justify-content: space-between;
+    background-color: #c3def0;
+    margin-top: 10px;
+    padding: 15px 0px;
+}
+.deals{
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 13px;padding-right: 5px;
+}
+.big1{
+    display: flex;
+    padding-left: 5px;
+}
+.super {
+    font-family: sans-serif;
+    padding-left: 5px;
+}
+.see{
+    font-family: sans-serif;
+    font-size: 12px;
+    padding-right: 10px;
+}
+.sub{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif;
+    padding: 10px 0px;
+}
+.will{
+    height: 60%;
+}
+.sub div{
+    width: 16%;
+}
+.sub img{
+    width: 100%;
+    height: 70%;
+    padding-bottom: 20px;
+}
+.price {
+    align-items: center;
+    padding-top: 20px;
+    font-size: bold;
+    font-weight: 500;
+}
+.price1{
+    padding-top: 20px;
+     font-size: bold;
+    font-weight: 500;
+}
+.sub div:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
