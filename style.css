@@ -1,3 +1,5 @@
+* { margin: 0; padding: 0;}
+body { background-color: whitesmoke;}
 .Topselling{
     margin-top: 10px;
     background-color: whitesmoke;
@@ -143,20 +145,18 @@ del {
 .free img:hover {
     transform: scale(1.1);
 }
-
-.header {
-    width: 90%;
-    background-color: #aadef1;
-    display: flex;
-    margin-left: 40px;
-    padding-top: 10px;
-    justify-content: space-between;
+.what {
+    width: 80%;
+    background-color: white; height: 24rem; margin-left: 10rem;
 }
+.queen { background-color: powderblue;}
 .top {
-    display: flex;
-    padding-bottom: 10px;
-    padding-left: 10px;
+    width: 50%;
     
+}
+.see{
+    width: 50%;
+    text-align: end;
 }
 .top h5 {
     Font-size: 20px;
@@ -165,30 +165,26 @@ del {
     color: rgb(40, 40, 40);
     font-family: Arial, Helvetica, sans-serif;
     margin-right: 15px;
+    text-align: left;
 }
-.top p {
-    Font-size: 20px;
-    Font-weight: 400;
-    Line-height: normal;
-    color: rgb(40, 40, 40);
-    font-family: Arial, Helvetica, sans-serif;
-    border-left: 1px solid black;
-}
+
+
 .see p {
     padding-right: 20px;
-    Font-size: 14px;
+    /* Font-size: 14px; */
     Font-weight: 500;
     Line-height: normal;
     color: rgb(40, 40, 40);
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 .line1 {
-    width: 90%;
-    margin-left: 40px;
+    width: 80%;
+    /* margin-left: 40px; */
     display: flex;
     background-color: #ffffff; 
     padding-top: 20px;
-    justify-content: space-around;
+    justify-content: space-between;
     padding-bottom: 50px;
 }
 .pix1 {
