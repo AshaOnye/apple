@@ -171,3 +171,121 @@ del {
     margin-top: 10px;
 }
 
+.footer-container{
+    height:600px;
+    width: 100%;
+    background-color: rgb(62, 59, 59);
+}
+.footer-1{
+    height: 140px;
+    background-color: #282828;
+    width: 100%;
+}
+.footer-1 img{
+    height: 30px;
+    margin-top: 30px;
+}
+
+.jumia{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.new h5{
+    color: white;
+    margin-top: 20px;
+    margin-left: 205px;
+    font-family: sans-serif;
+    font-size:17px;
+}
+.new p{
+    color: rgb(172, 167, 167);
+    margin-left: 203px;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+}
+.new input{
+    height:45px;
+    width: 210px;
+    border-radius: 2px;
+    border: none;
+    margin-left: 200px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.new button{
+    height: 45px;
+    background-color: #282828;
+    color: white;
+    border: 1px solid grey;
+    width: 75px;
+    border-radius: 3px;
+}
+#female{
+    width: 100px;
+}
+.app{
+    margin-top: 25px;
+    margin-left: 150px;
+}
+.app h5{
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+.app p{
+    color: rgb(102, 98, 98);
+    font-family: sans-serif;
+    margin-top: 10px;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.app img{
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 0px;
+}
+.google{
+    margin-right: 60px;
+}
+.footer-2{
+    height: 500px;
+    background-color: #3e3e3e;
+}
+.footer{
+    width:75%;
+    margin:0 auto;
+    height: 460px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.footer-heading h2{
+    font-size: 17px;
+    margin-bottom: 1rem;
+    color: #fdfdfd;
+    margin-top: 20px;
+}
+.footer-heading{
+    display: flex;
+    flex-direction: column;
+    margin-right: 2rem;
+}
+.footer-heading a{
+    text-decoration: none;
+    color: #c0bdbd;
+    margin-bottom: 0.5rem;
+}
+.foot-4 a{
+    display: flex;
+    flex-direction: column;
+}
+#countries{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
