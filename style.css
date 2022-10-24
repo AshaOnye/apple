@@ -144,3 +144,388 @@ del {
     transform: scale(1.1);
 }
 
+.header {
+    width: 90%;
+    background-color: #aadef1;
+    display: flex;
+    margin-left: 40px;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+.top {
+    display: flex;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+.top h5 {
+    Font-size: 20px;
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 15px;
+}
+.top p {
+    Font-size: 20px;
+    Font-weight: 400;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    border-left: 1px solid black;
+}
+.see p {
+    padding-right: 20px;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line1 {
+    width: 90%;
+    margin-left: 40px;
+    display: flex;
+    background-color: #ffffff; 
+    padding-top: 20px;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.pix1 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix1 img {
+    width: 100%;
+}
+.wr1 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr2 {
+    Font-size: 14px;
+    Font-weight: 400;
+    Line-height: 12px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+.pix2 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix2 img {
+    width: 100%;
+}
+.wr4 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr5 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix3 {
+        width: 15%;
+        cursor: pointer;
+
+    }
+.pix3 img {
+        width: 100%;
+    }
+.wr7 {
+        background-color: #feefde;
+        Font-size: 14px;
+        Font-weight: 500;
+        Line-height: 14px;
+        color: rgb(246, 139, 30);
+        margin-left: 120px;
+    }
+.wr8 {
+        Font-size: 12px;
+        Font-weight: 400;
+        Line-height: 14px;
+        color: rgb(40, 40, 40);
+        font-family: Arial, Helvetica, sans-serif;
+        padding-bottom: 10px;
+        padding-top: 5px;}
+.pix4 {
+     width: 15%;
+     cursor: pointer;
+}
+.pix4 img {
+     width: 100%;
+}
+.wr10 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr11 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix5 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix5 img {
+    width: 100%;
+}
+.wr13 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr14 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix6 {
+        width: 15%;
+        cursor: pointer;
+   }
+.pix6 img {
+        width: 100%;
+}
+.wr16 {
+       background-color: #feefde;
+       Font-size: 14px;
+       Font-weight: 500;
+       Line-height: 14px;
+       color: rgb(246, 139, 30);
+       margin-left: 120px;
+}
+.wr17 {
+       Font-size: 12px;
+       Font-weight: 400;
+       Line-height: 14px;
+       color: rgb(40, 40, 40);
+       font-family: Arial, Helvetica, sans-serif;
+       padding-bottom: 10px;
+       padding-top: 5px;}
+.line2 {
+    background-color: #e2f5ff;
+    width: 90%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.line2 p {
+    Font-size: 20px;
+    Font-weight: 500; 
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    text-align: center;
+}
+.line3 {
+    width: 90%;
+    margin-bottom: 10px;
+}
+.line3 img {
+    width: 100%;
+    margin-left: 40px;
+}
+.line4 {
+    width: 90%;
+    background-color: #aadef1;
+    display: flex;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.defacto {
+    Font-size: 20px;
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+.all {
+    padding-right: 20px;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+
+.line5 {
+    width: 90%;
+    margin-left: 40px;
+    display: flex;
+    background-color: #ffffff; 
+    padding-top: 20px;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.pix7 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix7 img {
+    width: 100%;
+}
+.zn1 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn2 {
+    Font-size: 14px;
+    Font-weight: 400;
+    Line-height: 12px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+.pix8 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix8 img {
+    width: 100%;
+}
+.zn4 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn5 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix9 {
+        width: 15%;
+        cursor: pointer;
+
+    }
+.pix9 img {
+        width: 100%;
+    }
+.zn7 {
+        background-color: #feefde;
+        Font-size: 14px;
+        Font-weight: 500;
+        Line-height: 14px;
+        color: rgb(246, 139, 30);
+        margin-left: 120px;
+    }
+.zn8 {
+        Font-size: 12px;
+        Font-weight: 400;
+        Line-height: 14px;
+        color: rgb(40, 40, 40);
+        font-family: Arial, Helvetica, sans-serif;
+        padding-bottom: 10px;
+        padding-top: 5px;}
+.pix10 {
+     width: 15%;
+     cursor: pointer;
+}
+.pix10 img {
+     width: 100%;
+}
+.zn10 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn11 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix11 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix11 img {
+    width: 100%;
+}
+.zn13 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn14 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix12 {
+        width: 15%;
+        cursor: pointer;
+   }
+.pix12 img {
+        width: 100%;
+}
+.zn16 {
+       background-color: #feefde;
+       Font-size: 14px;
+       Font-weight: 500;
+       Line-height: 14px;
+       color: rgb(246, 139, 30);
+       margin-left: 120px;
+}
+.zn17 {
+       Font-size: 12px;
+       Font-weight: 400;
+       Line-height: 14px;
+       color: rgb(40, 40, 40);
+       font-family: Arial, Helvetica, sans-serif;
+       padding-bottom: 10px;
+       padding-top: 5px;}
