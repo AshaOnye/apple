@@ -1,6 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+
 .Topselling{
     margin-top: 10px;
-    background-color: whitesmoke;
+    background-color: white;
     width: 80%;
     height: 24rem;
     margin-left: 10rem;
@@ -10,7 +20,7 @@
 
 .Topselling1{
     margin-top: 10px;
-    background-color: whitesmoke;
+    background-color: white;
     width: 80%;
     height: 26rem;
     margin-left: 10rem;
@@ -22,7 +32,6 @@
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 
 
 .topimages {
@@ -117,7 +126,7 @@ del {
 
 .freediv {
     margin-top: 10px;
-    background-color: whitesmoke;
+    background-color: white;
     width: 80%;
     height: 16rem;
     margin-left: 10rem;
