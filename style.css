@@ -85,6 +85,1029 @@
 .jug6{
     padding-top: 20px;
 }
-.jug7{
+* { margin: 0; padding: 0;}
+body { background-color: whitesmoke;}
+.Topselling{
+    margin-top: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 24rem;
+    margin-left: 10rem;
+    border-radius: 8px;
+
+}
+
+.Topselling1{
+    margin-top: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 26rem;
+    margin-left: 10rem;
+    border-radius: 8px;
+
+}
+
+.itemstext {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.topimages {
+    display: flex;
+}
+
+.toptext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 14px;
+    margin-top: 12px;
+}
+
+.lenovo {
+    width: 16%;
+    height: 15rem;
+    margin: auto;
+
+}
+
+.lenovo img{
+    height: 100%;
+    width: 100%;
+}
+
+.lenovo p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.lenovo img:hover {
+    transform: scale(1.1);
+}
+
+del {
+    font-size: 12px;
+}
+
+.flashdiv {
+    width: 80%;
+    height: 3rem;
+    margin-left: 10rem;
+    margin-top: 10px;
+    background-color: red;
+    display: flex;
+}
+
+.flashtext {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-bottom: 8px;
+}
+
+.timetext {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 330px;
+    font-weight: bold;
+}
+
+.seetext {
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 390px;
+    text-decoration: none;
+    
+}
+
+.stockdiv {
+    width: 80%;
+    height: 3rem;
+    margin-left: 10rem;
+    margin-top: 10px;
+    background-color: powderblue;
+    display: flex;
+}
+
+.stocktext {
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-bottom: 8px;
+}
+
+.freediv {
+    margin-top: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    height: 16rem;
+    margin-left: 10rem;
+    border-radius: 8px;
+}
+
+
+.freeimages {
+    display: flex;
+}
+
+.free {
+    width: 33%;
+    height: 15rem;
+    margin: auto;
+    padding: 10px;
+}
+
+.free img {
+    width: 100%;
+    height: 100%;
+}
+
+.free img:hover {
+    transform: scale(1.1);
+}
+.what {
+    width: 80%;
+    background-color: white; height: 24rem; margin-left: 10rem;
+}
+.queen { background-color: powderblue;}
+.top {
+    width: 50%;
+    
+}
+.see{
+    width: 50%;
+    text-align: end;
+}
+.top h5 {
+    Font-size: 20px;
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 15px;
+    text-align: left;
+}
+
+
+.see p {
+    padding-right: 20px;
+    /* Font-size: 14px; */
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.line1 {
+    width: 80%;
+    /* margin-left: 40px; */
+    display: flex;
+    background-color: #ffffff; 
     padding-top: 20px;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+.pix1 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix1 img {
+    width: 100%;
+}
+.wr1 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr2 {
+    Font-size: 14px;
+    Font-weight: 400;
+    Line-height: 12px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+.pix2 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix2 img {
+    width: 100%;
+}
+.wr4 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr5 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix3 {
+        width: 15%;
+        cursor: pointer;
+
+    }
+.pix3 img {
+        width: 100%;
+    }
+.wr7 {
+        background-color: #feefde;
+        Font-size: 14px;
+        Font-weight: 500;
+        Line-height: 14px;
+        color: rgb(246, 139, 30);
+        margin-left: 120px;
+    }
+.wr8 {
+        Font-size: 12px;
+        Font-weight: 400;
+        Line-height: 14px;
+        color: rgb(40, 40, 40);
+        font-family: Arial, Helvetica, sans-serif;
+        padding-bottom: 10px;
+        padding-top: 5px;}
+.pix4 {
+     width: 15%;
+     cursor: pointer;
+}
+.pix4 img {
+     width: 100%;
+}
+.wr10 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr11 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix5 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix5 img {
+    width: 100%;
+}
+.wr13 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.wr14 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix6 {
+        width: 15%;
+        cursor: pointer;
+   }
+.pix6 img {
+        width: 100%;
+}
+.wr16 {
+       background-color: #feefde;
+       Font-size: 14px;
+       Font-weight: 500;
+       Line-height: 14px;
+       color: rgb(246, 139, 30);
+       margin-left: 120px;
+}
+.wr17 {
+       Font-size: 12px;
+       Font-weight: 400;
+       Line-height: 14px;
+       color: rgb(40, 40, 40);
+       font-family: Arial, Helvetica, sans-serif;
+       padding-bottom: 10px;
+       padding-top: 5px;}
+.line2 {
+    background-color: #e2f5ff;
+    width: 90%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.line2 p {
+    Font-size: 20px;
+    Font-weight: 500; 
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    text-align: center;
+}
+.line3 {
+    width: 90%;
+    margin-bottom: 10px;
+}
+.line3 img {
+    width: 100%;
+    margin-left: 40px;
+}
+.line4 {
+    width: 90%;
+    background-color: #aadef1;
+    display: flex;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.defacto {
+    Font-size: 20px;
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+.all {
+    padding-right: 20px;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: normal;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+
+.line5 {
+    width: 90%;
+    margin-left: 40px;
+    display: flex;
+    background-color: #ffffff; 
+    padding-top: 20px;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.pix7 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix7 img {
+    width: 100%;
+}
+.zn1 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn2 {
+    Font-size: 14px;
+    Font-weight: 400;
+    Line-height: 12px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+.pix8 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix8 img {
+    width: 100%;
+}
+.zn4 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn5 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix9 {
+        width: 15%;
+        cursor: pointer;
+
+    }
+.pix9 img {
+        width: 100%;
+    }
+.zn7 {
+        background-color: #feefde;
+        Font-size: 14px;
+        Font-weight: 500;
+        Line-height: 14px;
+        color: rgb(246, 139, 30);
+        margin-left: 120px;
+    }
+.zn8 {
+        Font-size: 12px;
+        Font-weight: 400;
+        Line-height: 14px;
+        color: rgb(40, 40, 40);
+        font-family: Arial, Helvetica, sans-serif;
+        padding-bottom: 10px;
+        padding-top: 5px;}
+.pix10 {
+     width: 15%;
+     cursor: pointer;
+}
+.pix10 img {
+     width: 100%;
+}
+.zn10 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn11 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix11 {
+    width: 15%;
+    cursor: pointer;
+}
+.pix11 img {
+    width: 100%;
+}
+.zn13 {
+    background-color: #feefde;
+    Font-size: 14px;
+    Font-weight: 500;
+    Line-height: 14px;
+    color: rgb(246, 139, 30);
+    margin-left: 120px;
+}
+.zn14 {
+    Font-size: 12px;
+    Font-weight: 400;
+    Line-height: 14px;
+    color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 5px;}
+.pix12 {
+        width: 15%;
+        cursor: pointer;
+   }
+.pix12 img {
+        width: 100%;
+}
+.zn16 {
+       background-color: #feefde;
+       Font-size: 14px;
+       Font-weight: 500;
+       Line-height: 14px;
+       color: rgb(246, 139, 30);
+       margin-left: 120px;
+}
+.zn17 {
+       Font-size: 12px;
+       Font-weight: 400;
+       Line-height: 14px;
+       color: rgb(40, 40, 40);
+       font-family: Arial, Helvetica, sans-serif;
+       padding-bottom: 10px;
+       padding-top: 5px;}
+.header{
+    background-color: #f7971c;
+    height: 60px;
+}
+.head1{
+    width: 80%;
+    margin: auto; 
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+}
+.free_delivery{
+    width: 60%;
+}
+.free_delivery{
+    color: white;
+    font-size: 55px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 40px;
+    }
+.call_to_Order{
+    background-color: #abdef1;
+    width: 20%;
+    height: 59px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.call_to_Order{
+    font-size: 25px;
+    padding-top: 2px;
+}
+.call_to_Order p{
+    padding-top: 4px;
+}
+.call{
+    font-size: 16px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+}
+.section{
+    height: 40px;
+    width: 100%;
+}
+.head2{
+    display: flex;
+    width: 80%;
+    margin:auto;
+    padding: 10px;
+}
+.sell_on_jumia{
+    width: 30%;
+    align-items: center;
+}
+.sell_on_jumia img{
+    width: 20px;
+    height: 20px;
+    padding-top: 0%;
+}
+.sell_on_jumia a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #f7971c;
+    font-size: 20px;
+}
+.jumi{
+    width: 60%;    
+}
+.jumi img{
+    width: 65px;
+    height: 12px;
+}
+.jumi a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: gray;
+    padding: 3%;
+    font-size: 12px
+}
+.section2{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+.head3{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding: 0px 0px;
+    background-position: fixed;
+}
+.jumia_logo{
+    width: 15%;
+}
+.jumia_logo img{
+    width: 150px;
+    height: 25px;
+    padding-top: 10px;
+}
+.jumia_logo img:hover{
+    color: gray;
+}
+.button_2{
+    padding: 0px 40px;
+}
+.search{
+    width: 600px;
+    height: 40px;
+    border: gray 1px solid;
+    border-radius: 2px;
+}
+.btn_seacrch{
+    background-color: #f7971c;
+    border: solid 1px  #f7971c;
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;;
+  font-weight: 500px;
+  border-radius: 1px; 
+  height: 40px;
+  width: 100px;
+}
+.btn_seacrch:hover{ 
+    border: gray;
+}
+.aatag a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 500px;
+    padding: 5px 15px;
+    justify-content: center;
+    color: black;
+}
+.aatag a:hover{
+    color: #f7971c;
+}
+.jumia_products{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+.jumia_products{
+    width:80%;
+    height: 380px;
+    margin: auto;
+    margin-top: 20px;
+}
+.ban1{background-color: white;
+    width: 20%;
+    height: 380px;
+}
+.ban1:hover{
+    box-shadow: 2px 2px 10px;
+    color: #7f8e8c;
+    border-radius: 8px;
+}
+
+.ban1 a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: black;
+    margin: auto;
+    line-height: 30px;
+}
+.ban2{
+    background-color: white;
+    width: 57%;
+    height: 380px;
+    border-radius: 8px;
+}
+.ban2 img{
+    width: 100%;
+    height: 380px;
+}
+.ban2:hover{
+    box-shadow: 2px 2px 10px;
+    color: #7f8e8c;
+}
+
+.ban3{
+    background-color: #f7971c;
+    width: 20%;
+    height: 380px;
+}
+.sban1{
+    background-color: white;
+    width: 100%;
+    height: 185px;
+}
+.sban1 img{
+    width: 100%;
+    height: 185px;
+}
+.sban2{
+    background-color: white;
+    width: 100%;
+    height: 185px;
+    margin-top: 10px;
+}
+.sban2 img{
+    width: 100%;
+    height: 185px;
+    
+}
+.holder{
+    background-color: white;
+    justify-content: space-between;
+    width: 80%;
+    height: 170px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.jumia_brands{
+    width:100%;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.jumia_brands{
+    width: 90%;
+}
+
+.jumia_brands a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.jumia_brand1{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+.jumia_brand1:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand1 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand2{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand2:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+
+.jumia_brand2 img {
+    width: 100%;
+    height: 120px;
+}
+.jumia_brand3{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand3:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand3 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand4{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+.jumia_brand4:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand4 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand5{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand5:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand5 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand6{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand6:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand6 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand7{
+    background-color:  white;
+    width: 11.5%;
+    height: 160px;
+}
+
+.jumia_brand7:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand7 img {
+    width: 100%;
+    height: 120px;
+}
+
+.jumia_brand8{
+    background-color: white;
+    width: 11.5%;
+    height: 160px;
+}
+.jumia_brand8:hover{
+    box-shadow: 2px 2px 10px;
+    color: rgb(151, 150, 150);
+}
+.jumia_brand8 img {
+    width: 100%;
+    height: 120px;
+}
+
+
+.section_1 {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+.offical {
+    background-color: #e2f5ff;
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     font-weight: bold;
+     padding: 15px 0px;
+     color: #28313b;
+}
+.one {
+    width: 100%;
+    display: flex;
+    padding-top: 10px;
+}
+.one div {
+    width: 17%;
+}
+.one img{
+    width: 100%;
+}
+.two {
+    width: 100%;
+    display: flex;
+}
+.two div {
+    width: 17%;
+}
+.two img{
+    width: 100%;
+}
+.three {
+    width: 100%;
+    display: flex;
+}
+.three div {
+    width: 17%;
+}
+.three img{
+    width: 100%;
+}
+.one div:hover{
+    transform: scale(1.1);}
+.two div:hover{
+    transform: scale(1.1);}
+.three div:hover{
+    transform: scale(1.1);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Grocery{
+     background-color: #c3def0;
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     font-weight: bold;
+     padding: 15px 0px;
+     margin-top: 10px;
+     color: #28313b;
+     margin-bottom: 10px;
+}
+.mini_sec{
+    display: flex;
+    justify-content: space-between;
+}
+.mini_sec div {
+    width: 33%;
+}
+.mini_sec img:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.mini_sec img{
+    width: 100%;
+    height: 100%;
+}
+.top_deals{
+    display: flex;
+    justify-content: space-between;
+    background-color: #c3def0;
+    margin-top: 10px;
+    padding: 15px 0px;
+}
+.deals{
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 13px;padding-right: 5px;
+}
+.big1{
+    display: flex;
+    padding-left: 5px;
+}
+.super {
+    font-family: sans-serif;
+    padding-left: 5px;
+}
+.see{
+    font-family: sans-serif;
+    font-size: 12px;
+    padding-right: 10px;
+}
+.sub{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif;
+    padding: 10px 0px;
+}
+.will{
+    height: 60%;
+}
+.sub div{
+    width: 16%;
+}
+.sub img{
+    width: 100%;
+    height: 70%;
+    padding-bottom: 20px;
+}
+.price {
+    align-items: center;
+    padding-top: 20px;
+    font-size: bold;
+    font-weight: 500;
+}
+.price1{
+    padding-top: 20px;
+     font-size: bold;
+    font-weight: 500;
+}
+.sub div:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
